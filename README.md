@@ -18,9 +18,9 @@ Apart from that, I am sure that the soft-skills that I learnt and developed so f
 
 👷 "restorative"- it is one of my top Gallup strength. I can't sleep when something is not working. I just need to repair it!
 
-👀 seeig a bigger picture - that is what I have learnt, being a team-leader 
+👀 seeig a bigger picture - that is what I learnt as a team-lead.
 
-👥 team-work -I have always worked in teams (also international) and I really enjoyed it
+👥 team-work -I have always worked in teams (also international) and I really enjoyed it.
 
-👑 understanding client needs - years in client service helped to understand client needs very well
+👑 understanding client needs - years in client service helped to understand client needs very well.
 
