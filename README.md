@@ -21,13 +21,13 @@ For some time I was learning alone but few months ago I started a programmig men
 
 ## SOFT SKILLS
 
-👁️ good eye for details -I work a lot with data, dashboards and reportings at my current job
+* good eye for details -I work a lot with data, dashboards and reportings at my current job
 
-👷 "restorative"- it is one of my top Gallup strength. I can't sleep when something is not working. I just need to repair it!
+* "restorative"- it is one of my top Gallup strength. I can't sleep when something is not working. I just need to repair it!
 
-👀 seeing a bigger picture - that is what I learnt as a team-lead.
+* seeing a bigger picture - that is what I learnt as a team-lead.
 
-👥 team-work -I have always worked in teams (also international) and I really enjoyed it.
+* team-work -I have always worked in teams (also international) and I really enjoyed it.
 
 👑 understanding client needs - years in client service helped me to understand client needs very well.
 
