@@ -3,7 +3,7 @@ Hello and welcome to my page
 My name is Magda and I am an aspiring web developer! :wave:
 
 
-## 💻 TECHNOLOGIES
+# 💻 TECHNOLOGIES
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@ My name is Magda and I am an aspiring web developer! :wave:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-## :panda_face: SOFT SKILLS
+# :panda_face: SOFT SKILLS
 
 * good eye for details -I work a lot with data, dashboards and reportings at my current job
 
@@ -34,7 +34,7 @@ My name is Magda and I am an aspiring web developer! :wave:
 * i love to learn new things 
 
 
-## 📫: CONTACT ME
+# 📫: CONTACT ME
 
 
 
