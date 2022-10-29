@@ -8,6 +8,7 @@ For some time I was learning alone but few months ago I started a programmig men
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 Apart from that, I am sure that the soft-skills that I learnt and developed so far, will be very beneficial as a frontend developer:
 
@@ -15,7 +16,7 @@ Apart from that, I am sure that the soft-skills that I learnt and developed so f
 
 👷 "restorative"- it is one of my top Gallup strength. I can't sleep when something is not working. I just need to repair it!
 
-👀 seeig a bigger picture - that is what I learnt as a team-lead.
+👀 seeing a bigger picture - that is what I learnt as a team-lead.
 
 👥 team-work -I have always worked in teams (also international) and I really enjoyed it.
 
