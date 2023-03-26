@@ -37,10 +37,9 @@ Frameworks, libs, DBs and other tools:
 * understanding client needs - years in client service helped me to understand client needs very well.
 
 * I love to learn new things 
-* 
+
+
 Aaand I do love mountains (in summer and winter), art, audiobooks, podcasts and a cup of good coffee.
-
-
 
 
 
