@@ -26,17 +26,22 @@ Frameworks, libs, DBs and other tools:
 
 ### :panda_face: SOFT SKILLS
 
-* good eye for details -I work a lot with data, dashboards and reportings at my current job
+* good eye for details -Working in the field of media planning, I gained tons of experience with data, dashboards and reportings 
 
 * "restorative"- it is one of my top Gallup strength. I can't sleep when something is not working. I just need to repair it!
 
 * seeing a bigger picture - that is what I learnt as a team-lead.
 
-* team-work -I have always worked in teams (also international) and I really enjoyed it.
+* team-work -I have always worked in (international) teams and I really enjoyed it.
 
 * understanding client needs - years in client service helped me to understand client needs very well.
 
-* i love to learn new things 
+* I love to learn new things 
+* 
+Aaand I do love mountains (in summer and winter), art, audiobooks, podcasts and a cup of good coffee.
+
+
+
 
 
 ### 📫: CONTACT ME
