@@ -39,7 +39,7 @@ Frameworks, libs, DBs and other tools:
 * I love to learn new things 
 
 
-Aaand I do love mountains (in summer and winter), art, audiobooks, podcasts and a cup of good coffee.
+Aaand I do love mountains (in summer and winter), art, audiobooks, podcasts and a cup of good coffee.:coffee:
 
 
 
