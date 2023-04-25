@@ -24,6 +24,10 @@ Frameworks, libs, DBs and other tools:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+In the pipeline:
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ### :panda_face: SOFT SKILLS
 
 * good eye for details -Working in the field of media planning, I gained tons of experience with data, dashboards and reportings 
