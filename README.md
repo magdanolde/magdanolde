@@ -36,13 +36,13 @@ In the pipeline:
 
 ### :panda_face: SOFT SKILLS
 
-* good eye for details -Working in the field of media planning, I gained tons of experience with data, dashboards and reportings 
+* good eye for details -While working in the field of media planning, I have gained wealth s of experience with data, dashboards and reportings 
 
 * "restorative"- it is one of my top Gallup strength. I can't sleep when something doesn't work. I just need to repair it!
 
-* seeing a bigger picture - that is what I learnt as a team-lead.
+* seeing a bigger picture - that is what I have learnt as a team-lead.
 
-* team-work -I have always worked in (international) teams and I really enjoyed it.
+* team-work - I have always worked in (international) teams and I really enjoyed it.
 
 * understanding client needs - years in client service helped me to understand client needs very well.
 
