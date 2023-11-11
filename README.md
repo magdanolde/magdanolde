@@ -1,6 +1,6 @@
 Hello and welcome to my page
 
-My name is Magda and love coding :wave:
+My name is Magda and I love coding :wave:
 
 
 ### 💻 TECHNOLOGIES
@@ -38,7 +38,7 @@ In the pipeline:
 
 ### :panda_face: SOFT SKILLS
 
-* good eye for details -While working in the field of media planning, I have gained wealth s of experience with data, dashboards and reportings 
+* good eye for details - While working in the field of media planning, I have gained wealths of experience with data, dashboards and reportings 
 
 * "restorative"- it is one of my top Gallup strength. I can't sleep when something doesn't work. I just need to repair it!
 
